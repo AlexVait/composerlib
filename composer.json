@@ -1,0 +1,12 @@
+{
+    "name": "alexvait/lib",
+    "description": "My simple test",
+    "keywords": ["php", "test"],
+    "type": "library",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "files": ["Lib.php"]
+    }
+}
